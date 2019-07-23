@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>E_invoice1.2</id>
+    <version>1.0.1</version>
+    <title>E_invoice1.2</title>
+    <authors>Ergo Enn</authors>
+    <owners>Ergo Enn</owners>
+    <projectUrl>https://github.com/ErgEnn/E_invoice1.2</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# model for Estonian E-invoice ver1.2</description>
+    <releaseNotes>Added nuspec</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>E-invoice E_invoice Estonia Invoice 1.2 12</tags>
+	<license type="expression">MIT</license>
+  </metadata>
+</package>
